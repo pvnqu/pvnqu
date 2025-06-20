@@ -1,9 +1,7 @@
 
-![alt text](https://github.com/pvnqu/.github/blob/pvnqu/pvnqu/images/pvnqu.jpg "Logo Title Text 1")
+![alt text](https://github.com/pvnqu/.github/blob/pvnqu/images/pvnqu.jpg "Logo Title Text 1")
 
-[![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=pvnqu&show_icons=true&theme=purple)](https://github.com/pvnqu/github-readme-stats)
-
-<!--<img src="https://apple-music-readme-rose.vercel.app/.vercel.app/?">-->
+[![Pvnqu's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=pvnqu&show_icons=true&theme=blue)](https://github.com/pvnqu/github-readme-stats)
 
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=blue)
@@ -11,12 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
----
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
