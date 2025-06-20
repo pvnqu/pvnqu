@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pvnqu/pvnqu/main/images/pvnqu.jpg" alt="banner" width="300"/>
+  <img src="https://raw.githubusercontent.com/pvnqu/pvnqu/main/images/pvnqu.png" alt="banner" width="300"/>
 
   <h1 align="center">pvnqu</h1>
   <h3 align="center">I code stuff</h3>
