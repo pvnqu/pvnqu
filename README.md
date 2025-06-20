@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/FlexinUp/.github/blob/main/profile/images/flexinup.png "Logo Title Text 1")
+![alt text](https://github.com/pvnqu/.github/blob/main/profile/images/pvnqu.png "Logo Title Text 1")
 
 [![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=flexinup&show_icons=true&theme=shadow_red)](https://github.com/flexinup/github-readme-stats)
 
