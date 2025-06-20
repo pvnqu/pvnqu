@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/pvnqu/pvnqu/tree/main/images "Logo Title Text 1")
+![alt text](https://github.com/pvnqu/pvnqu/main/images "Logo Title Text 1")
 
 [![Pvnqu's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=pvnqu&show_icons=true&theme=blue)](https://github.com/pvnqu/github-readme-stats)
 
