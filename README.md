@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/pvnqu/pvnqu/main/images/pvnqu.jpg" alt="banner" width="300"/>
 
-  <h1 align="center">Hi 👋, I'm pvnqu</h1>
-  <h3 align="center">A passionate developer building things for the web.</h3>
+  <h1 align="center">pvnqu</h1>
+  <h3 align="center">I make stuff for the internet.</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
