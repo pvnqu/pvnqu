@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=lua,html,css,discord,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,html,css,svelte,javascript,discord,ps&perline=10)](https://skillicons.dev)
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"></picture> About Me
 - 👨‍💻 Lua, HTML, and CSS enthusiast.
