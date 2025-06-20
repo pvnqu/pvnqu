@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/pvnqu/.github/blob/main/profile/images/pvnqu.png "Logo Title Text 1")
 
-[![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=pvnqu&show_icons=true&theme=shadow_purple)](https://github.com/pvnqu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=pvnqu&show_icons=true&theme=shadow_red)](https://github.com/pvnqu/github-readme-stats)
 
 <!--<img src="https://apple-music-readme-rose.vercel.app/.vercel.app/?">-->
 
