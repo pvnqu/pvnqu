@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pvnqu/pvnqu/main/images/pvnqu.jpg" alt="banner" width="350"/>
+  <img src="https://raw.githubusercontent.com/pvnqu/pvnqu/main/images/pvnqu.jpg" alt="banner" width="300"/>
 
   <h1 align="center">Hi 👋, I'm pvnqu</h1>
   <h3 align="center">A passionate developer building things for the web.</h3>
